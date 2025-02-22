@@ -1,4 +1,6 @@
-**FaceIt Video-Chat Website**
+**FaceIt 
+Video-Chat 
+Website**
 
 **Overview**
 This project is a video chat web application that enables real-time communication between users. It is built using WebRTC for peer-to-peer connections, Socket.io for signaling, and a Node.js backend.
